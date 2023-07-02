@@ -1,0 +1,19 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'S'
+  ClientHeight = 480
+  ClientWidth = 253
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object Rectangle1: TRectangle
+    Fill.Color = xFF662482
+    Position.X = 80.000000000000000000
+    Position.Y = 184.000000000000000000
+    Size.Width = 50.000000000000000000
+    Size.Height = 50.000000000000000000
+    Size.PlatformDefault = False
+  end
+end
